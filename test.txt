@@ -473,3 +473,6 @@ test
 pwd
 ll
 test
+pwd
+ll
+test
